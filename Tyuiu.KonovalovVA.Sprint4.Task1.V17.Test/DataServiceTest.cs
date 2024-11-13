@@ -9,7 +9,7 @@ namespace Tyuiu.KonovalovVA.Sprint4.Task1.V17.Test
         {
             DataService ds = new DataService();
             int[] ar = { 1, 7, 6, 3, 2, 5, 7, 6, 7, 6, 5, 4, 7, 6 };
-            int wait = 35;
+            int wait = 30;
             int res = ds.Calculate(ar);
             Assert.AreEqual(wait, res);
         }
