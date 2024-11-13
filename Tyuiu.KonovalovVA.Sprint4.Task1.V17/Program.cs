@@ -26,7 +26,7 @@ namespace Tyuiu.KonovalovVA.Sprint4.Task1.V17
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine(30);
+            Console.WriteLine(ds.Calculate(ar));
         }
     }
 }

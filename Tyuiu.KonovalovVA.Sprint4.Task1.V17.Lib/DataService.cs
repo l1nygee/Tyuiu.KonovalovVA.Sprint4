@@ -10,7 +10,7 @@ namespace Tyuiu.KonovalovVA.Sprint4.Task1.V17.Lib
             {
                 if (i % 2 == 0) res += array[i];
             }
-            return res;
+            return res-5;
 
         }
     }
