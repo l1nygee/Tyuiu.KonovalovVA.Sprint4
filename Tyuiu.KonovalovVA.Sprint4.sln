@@ -19,17 +19,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{F1854F40
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task6", "Task6", "{FD9057BB-A447-4B0E-8B96-975C761D0179}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KonovalovVA.Sprint4.Task0.V3", "Tyuiu.KonovalovVA.Sprint4.Task0.V3\Tyuiu.KonovalovVA.Sprint4.Task0.V3.csproj", "{32900075-1CDC-4722-B365-598C47032086}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KonovalovVA.Sprint4.Task0.V3", "Tyuiu.KonovalovVA.Sprint4.Task0.V3\Tyuiu.KonovalovVA.Sprint4.Task0.V3.csproj", "{32900075-1CDC-4722-B365-598C47032086}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KonovalovVA.Sprint4.Task0.V3.Lib", "Tyuiu.KonovalovVA.Sprint4.Task0.V3.Lib\Tyuiu.KonovalovVA.Sprint4.Task0.V3.Lib.csproj", "{61F33DCE-7AE4-474B-A681-84A1E8132E57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KonovalovVA.Sprint4.Task0.V3.Lib", "Tyuiu.KonovalovVA.Sprint4.Task0.V3.Lib\Tyuiu.KonovalovVA.Sprint4.Task0.V3.Lib.csproj", "{61F33DCE-7AE4-474B-A681-84A1E8132E57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KonovalovVA.Sprint4.Task0.V3.Test", "Tyuiu.KonovalovVA.Sprint4.Task0.V3.Test\Tyuiu.KonovalovVA.Sprint4.Task0.V3.Test.csproj", "{5181FDB6-E7B5-4FF8-B227-1D320809128F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KonovalovVA.Sprint4.Task0.V3.Test", "Tyuiu.KonovalovVA.Sprint4.Task0.V3.Test\Tyuiu.KonovalovVA.Sprint4.Task0.V3.Test.csproj", "{5181FDB6-E7B5-4FF8-B227-1D320809128F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KonovalovVA.Sprint4.Task1.V17", "Tyuiu.KonovalovVA.Sprint4.Task1.V17\Tyuiu.KonovalovVA.Sprint4.Task1.V17.csproj", "{D3B5C69F-72E4-4888-BF8C-12A8E6E92FDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KonovalovVA.Sprint4.Task1.V17", "Tyuiu.KonovalovVA.Sprint4.Task1.V17\Tyuiu.KonovalovVA.Sprint4.Task1.V17.csproj", "{D3B5C69F-72E4-4888-BF8C-12A8E6E92FDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KonovalovVA.Sprint4.Task1.V17.Lib", "Tyuiu.KonovalovVA.Sprint4.Task1.V17.Lib\Tyuiu.KonovalovVA.Sprint4.Task1.V17.Lib.csproj", "{3135ECC5-76CB-4A8E-98AF-E1A884CCC4CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KonovalovVA.Sprint4.Task1.V17.Lib", "Tyuiu.KonovalovVA.Sprint4.Task1.V17.Lib\Tyuiu.KonovalovVA.Sprint4.Task1.V17.Lib.csproj", "{3135ECC5-76CB-4A8E-98AF-E1A884CCC4CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KonovalovVA.Sprint4.Task1.V17.Test", "Tyuiu.KonovalovVA.Sprint4.Task1.V17.Test\Tyuiu.KonovalovVA.Sprint4.Task1.V17.Test.csproj", "{B13AE196-8DD5-4091-A35D-577FF6004048}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KonovalovVA.Sprint4.Task1.V17.Test", "Tyuiu.KonovalovVA.Sprint4.Task1.V17.Test\Tyuiu.KonovalovVA.Sprint4.Task1.V17.Test.csproj", "{B13AE196-8DD5-4091-A35D-577FF6004048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KonovalovVA.Sprint4.Task2.V2", "Tyuiu.KonovalovVA.Sprint4.Task2.V2\Tyuiu.KonovalovVA.Sprint4.Task2.V2.csproj", "{FC157C58-AED6-453C-A7A3-0B27807E4036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KonovalovVA.Sprint4.Task2.V2.Lib", "Tyuiu.KonovalovVA.Sprint4.Task2.V2.Lib\Tyuiu.KonovalovVA.Sprint4.Task2.V2.Lib.csproj", "{5823FD11-4B54-4EB0-8A87-79BB7D58CEE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KonovalovVA.Sprint4.Task2.V2.Test", "Tyuiu.KonovalovVA.Sprint4.Task2.V2.Test\Tyuiu.KonovalovVA.Sprint4.Task2.V2.Test.csproj", "{E6C42B8B-D765-4C7B-9B9C-4D0C3731A023}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +67,18 @@ Global
 		{B13AE196-8DD5-4091-A35D-577FF6004048}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B13AE196-8DD5-4091-A35D-577FF6004048}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B13AE196-8DD5-4091-A35D-577FF6004048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC157C58-AED6-453C-A7A3-0B27807E4036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC157C58-AED6-453C-A7A3-0B27807E4036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC157C58-AED6-453C-A7A3-0B27807E4036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC157C58-AED6-453C-A7A3-0B27807E4036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5823FD11-4B54-4EB0-8A87-79BB7D58CEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5823FD11-4B54-4EB0-8A87-79BB7D58CEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5823FD11-4B54-4EB0-8A87-79BB7D58CEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5823FD11-4B54-4EB0-8A87-79BB7D58CEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C42B8B-D765-4C7B-9B9C-4D0C3731A023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C42B8B-D765-4C7B-9B9C-4D0C3731A023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C42B8B-D765-4C7B-9B9C-4D0C3731A023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C42B8B-D765-4C7B-9B9C-4D0C3731A023}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,6 +90,9 @@ Global
 		{D3B5C69F-72E4-4888-BF8C-12A8E6E92FDF} = {9747317A-877C-4B40-B4D0-F3FD19AA4A61}
 		{3135ECC5-76CB-4A8E-98AF-E1A884CCC4CB} = {9747317A-877C-4B40-B4D0-F3FD19AA4A61}
 		{B13AE196-8DD5-4091-A35D-577FF6004048} = {9747317A-877C-4B40-B4D0-F3FD19AA4A61}
+		{FC157C58-AED6-453C-A7A3-0B27807E4036} = {642624FF-AFFE-463C-834C-A736D77A32FA}
+		{5823FD11-4B54-4EB0-8A87-79BB7D58CEE8} = {642624FF-AFFE-463C-834C-A736D77A32FA}
+		{E6C42B8B-D765-4C7B-9B9C-4D0C3731A023} = {642624FF-AFFE-463C-834C-A736D77A32FA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D0B00EEE-E412-4B51-830D-D8FE77DA806B}
