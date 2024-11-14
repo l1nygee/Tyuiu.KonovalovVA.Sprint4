@@ -8,8 +8,8 @@ namespace Tyuiu.KonovalovVA.Sprint4.Task2.V2.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            int[] ar = new int[] { 5, 1, 4, 1, 5, 1, 7, 1, 4, 1, 11 };
-            int wait = 1;
+            int[] ar = new int[] { 5, 6, 7, 3, 4, 4, 2, 6, 3, 2, 2 };
+            int wait = 315;
             int res = ds.Calculate(ar);
             Assert.AreEqual(wait, res);
         }
