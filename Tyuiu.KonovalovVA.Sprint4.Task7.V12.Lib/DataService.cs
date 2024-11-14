@@ -11,7 +11,7 @@ namespace Tyuiu.KonovalovVA.Sprint4.Task7.V12.Lib
             {
                 for (int j = 0; j < m; j++)
                 {
-                    ar[i,j] = int.Parse(value[i*n+j].ToString());
+                    ar[i,j] = int.Parse(value[i*m+j].ToString());
                     if (ar[i, j] % 2 != 0) res += ar[i, j];
                 }
             }
