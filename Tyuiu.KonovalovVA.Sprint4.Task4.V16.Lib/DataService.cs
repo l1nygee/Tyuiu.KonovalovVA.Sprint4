@@ -9,7 +9,7 @@ namespace Tyuiu.KonovalovVA.Sprint4.Task4.V16.Lib
             {
                 for (int j = 0; j < matrix.GetLength(1); j++)
                 {
-                    if (matrix[i, j] % 2 == 2) matrix[i, j] = 1;
+                    if (matrix[i, j] % 2 == 0) matrix[i, j] = 1;
                 }
             }
             return matrix;
